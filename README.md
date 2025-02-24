@@ -27,3 +27,5 @@ Given the large size of the datasets, we have compressed them into multiple part
 cat datasets.tar.gz* > datasets.tar.gz
 tar -xzf datasets.tar.gz -C ./datasets
 ```
+
+![空间导向的归因方法与现有的通道导向的归因方法](./pipeline.png "空间导向的归因方法与现有的通道导向的归因方法的对比图")
