@@ -23,7 +23,7 @@ Given the large size of the datasets, we have compressed them into multiple part
    - **Extraction Code**: mode
 3. After downloading all parts, run the following command in your terminal to merge and extract the datasets:
 
-'''bash
+```
 cat datasets.tar.gz* > datasets.tar.gz
 tar -xzf datasets.tar.gz -C ./datasets
-'''
+```
