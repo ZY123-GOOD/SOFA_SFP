@@ -1,0 +1,18 @@
+
+**********************day2025_02_20_12**********************
+ood datasets: ['SUN', 'Places', 'dtd', 'iNaturalist']
+
+Vanilla Energy
+Vanilla Energy 49 index: SUN auroc 82.43%, fpr 79.53%
+Vanilla Energy 49 index: Places auroc 82.08%, fpr 79.84%
+Vanilla Energy 49 index: dtd auroc 79.79%, fpr 79.02%
+Vanilla Energy 49 index: iNaturalist auroc 88.28%, fpr 67.49%
+
+
+Energy+SFP
+Energy+SFP 34 index: SUN auroc 85.14%, fpr 60.46%
+Energy+SFP 34 index: Places auroc 84.56%, fpr 64.39%
+Energy+SFP 34 index: dtd auroc 83.95%, fpr 59.08%
+Energy+SFP 34 index: iNaturalist auroc 90.48%, fpr 45.63%
+
+
