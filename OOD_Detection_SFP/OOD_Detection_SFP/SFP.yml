@@ -232,4 +232,4 @@ dependencies:
       - websockets==11.0.3
       - xformers==0.0.23.post1
       - yapf==0.40.2
-prefix: /home/zhuyao123/miniconda3/envs/llava
+
